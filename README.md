@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Loc!
 
-<!--
-**hthienloc/hthienloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a second-year computer engineering student at Da Nang University of Science and Technology, exploring projects in coding, data analysis, and embedded systems. I'm always interested in learning new tech and building useful tools.
 
-Here are some ideas to get you started:
+### Projects
+- **Code experiments**: My playground for algorithms, data structures, and random coding ideas.
+- **Tools**: Small utilities I've built for easier data management or just fun experiments.
+- **Contributions**: Some open-source contributions I've made along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Learning C1/C2 English and picking up useful skills as I go.
+- Translating apps into Vietnamese and improving UX for native speakers.
+- Interests include IoT, embedded systems, and statistical analysis.
+
+Feel free to check out my repositories, or reach out for a quick chat!
+
+---
+
+Thanks for stopping by! ✌️
