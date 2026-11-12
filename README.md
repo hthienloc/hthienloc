@@ -1,9 +1,3 @@
-# 🕶️ Hey, I'm Loc (hthienloc)
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
 ### 🛡️ Threat Model: "I have no idea what I'm doing"
 
 - 🧠 **Technical Skills:** Copy from StackOverflow, paste into ChatGPT, pray to `git push -f`
@@ -23,12 +17,3 @@
 ---
 
 > *"It works on my machine, and by machine I mean ChatGPT's hallucinations."*
-
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="./opsec-demon.jpg" width="100%" alt="Certified OPSEC Demon" />
-      <br/>
-      <sub><i>Me and the boys after turning on private browsing</i></sub>
-    </td>
-  </tr>
-</table>
